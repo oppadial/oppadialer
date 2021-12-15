@@ -2,10 +2,10 @@
 
 "Ads": [
     {
-      "select_main_ads": "FALSE",
-      "select_backup_ads":"FALSE",
-      "main_ads_banner": "DefaultBanner",
-      "main_ads_intertitial":"DefaultInterstitial",
+      "select_main_ads": "APPLOVIN-D",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
       "initialize_sdk":"111fe47a5",
