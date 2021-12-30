@@ -1,0 +1,438 @@
+{
+   "Ads":[
+      {
+         "Ads":[
+            {
+               "select_main_ads":"ADMOB",
+               "select_backup_ads":"STARTAPP",
+               "main_ads_banner":"ca-app-pub-3940256099942544/6300978111",
+               "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+               "main_ads_reward":"ca-app-pub-3940256099942544/5224354917",
+               "backup_ads_banner":"",
+               "backup_ads_intertitial":"",
+               "backup_ads_reward":"",
+               "interval_intertitial":5,
+               "initialize_sdk":"",
+               "initialize_sdk_backup_ads":"",
+               "high_paying_keyword_1":"",
+               "high_paying_keyword_2":"",
+               "high_paying_keyword_3":"",
+               "high_paying_keyword_4":"",
+               "high_paying_keyword_5":"",
+               "status_app":"0",
+               "link_redirect":"https://"
+            }
+         ]
+      }
+   ],
+   "Skin":[
+      {
+         "name_skin":"Areal Firefighter ",
+         "install":"https://archive.org/download/firefight063/firefight001.png"
+      },
+      {
+         "name_skin":"Firefighter Captain",
+         "install":"https://archive.org/download/firefight063/firefight002.png"
+      },
+      {
+         "name_skin":"Firefighter",
+         "install":"https://archive.org/download/firefight063/firefight003.png"
+      },
+      {
+         "name_skin":"Army Firefighter",
+         "install":"https://archive.org/download/firefight063/firefight004.png"
+      },
+      {
+         "name_skin":"Arthur Fire Force",
+         "install":"https://archive.org/download/firefight063/firefight005.png"
+      },
+      {
+         "name_skin":"Average Firefighter  ",
+         "install":"https://archive.org/download/firefight063/firefight006.png"
+      },
+      {
+         "name_skin":"Bad Firefighter ",
+         "install":"https://archive.org/download/firefight063/firefight007.png"
+      },
+      {
+         "name_skin":"Firefighter",
+         "install":"https://archive.org/download/firefight063/firefight008.png"
+      },
+      {
+         "name_skin":"Firefighter",
+         "install":"https://archive.org/download/firefight063/firefight009.png"
+      },
+      {
+         "name_skin":"British Firefighter ",
+         "install":"https://archive.org/download/firefight063/firefight010.png"
+      },
+      {
+         "name_skin":"Casual Firefighter ",
+         "install":"https://archive.org/download/firefight063/firefight011.png"
+      },
+      {
+         "name_skin":"Firefighter Skin Fire Station",
+         "install":"https://archive.org/download/firefight063/firefight012.png"
+      },
+      {
+         "name_skin":"Chicago Fire Style ",
+         "install":"https://archive.org/download/firefight063/firefight013.png"
+      },
+      {
+         "name_skin":"Chicken Firefighter ",
+         "install":"https://archive.org/download/firefight063/firefight014.png"
+      },
+      {
+         "name_skin":"Survivor Firefighter",
+         "install":"https://archive.org/download/firefight063/firefight015.png"
+      },
+      {
+         "name_skin":"Firefighter",
+         "install":"https://archive.org/download/firefight063/firefight016.png"
+      },
+      {
+         "name_skin":"Enderfirefighter",
+         "install":"https://archive.org/download/firefight063/firefight017.png"
+      },
+      {
+         "name_skin":"Firefighter",
+         "install":"https://archive.org/download/firefight063/firefight018.png"
+      },
+      {
+         "name_skin":"Firefighter With Gas Mask",
+         "install":"https://archive.org/download/firefight063/firefight019.png"
+      },
+      {
+         "name_skin":"Fire Fighter Captain",
+         "install":"https://archive.org/download/firefight063/firefight020.png"
+      },
+      {
+         "name_skin":"Firefighter",
+         "install":"https://archive.org/download/firefight063/firefight021.png"
+      },
+      {
+         "name_skin":"Firefighter ",
+         "install":"https://archive.org/download/firefight063/firefight022.png"
+      },
+      {
+         "name_skin":"Firefighter ",
+         "install":"https://archive.org/download/firefight063/firefight023.png"
+      },
+      {
+         "name_skin":"Firefighter ",
+         "install":"https://archive.org/download/firefight063/firefight024.png"
+      },
+      {
+         "name_skin":"Firefighter ",
+         "install":"https://archive.org/download/firefight063/firefight025.png"
+      },
+      {
+         "name_skin":"Firefighter ",
+         "install":"https://archive.org/download/firefight063/firefight026.png"
+      },
+      {
+         "name_skin":"Firefighter ",
+         "install":"https://archive.org/download/firefight063/firefight027.png"
+      },
+      {
+         "name_skin":"Firefighter ",
+         "install":"https://archive.org/download/firefight063/firefight028.png"
+      },
+      {
+         "name_skin":"Firefighter Bear ",
+         "install":"https://archive.org/download/firefight063/firefight029.png"
+      },
+      {
+         "name_skin":"Firefighter  ",
+         "install":"https://archive.org/download/firefight063/firefight030.png"
+      },
+      {
+         "name_skin":"Firefighter Boy ",
+         "install":"https://archive.org/download/firefight063/firefight031.png"
+      },
+      {
+         "name_skin":"Firefighter Child ",
+         "install":"https://archive.org/download/firefight063/firefight032.png"
+      },
+      {
+         "name_skin":"Firefighter Constructor Snowman ",
+         "install":"https://archive.org/download/firefight063/firefight033.png"
+      },
+      {
+         "name_skin":"Firefighter Dino ",
+         "install":"https://archive.org/download/firefight063/firefight034.png"
+      },
+      {
+         "name_skin":"Firefighter Duck ",
+         "install":"https://archive.org/download/firefight063/firefight035.png"
+      },
+      {
+         "name_skin":"Firefighter Duck ",
+         "install":"https://archive.org/download/firefight063/firefight036.png"
+      },
+      {
+         "name_skin":"Firefighter Dummi",
+         "install":"https://archive.org/download/firefight063/firefight037.png"
+      },
+      {
+         "name_skin":"FireFighter Epic ",
+         "install":"https://archive.org/download/firefight063/firefight038.png"
+      },
+      {
+         "name_skin":"Firefighter Girl ",
+         "install":"https://archive.org/download/firefight063/firefight039.png"
+      },
+      {
+         "name_skin":"Firefighter In Bunker Pants",
+         "install":"https://archive.org/download/firefight063/firefight040.png"
+      },
+      {
+         "name_skin":"Firefighter ",
+         "install":"https://archive.org/download/firefight063/firefight041.png"
+      },
+      {
+         "name_skin":"Firefighter King ",
+         "install":"https://archive.org/download/firefight063/firefight042.png"
+      },
+      {
+         "name_skin":"Firefighter ",
+         "install":"https://archive.org/download/firefight063/firefight043.png"
+      },
+      {
+         "name_skin":"Firefighter Serbia",
+         "install":"https://archive.org/download/firefight063/firefight044.png"
+      },
+      {
+         "name_skin":"Firefighter Skin ",
+         "install":"https://archive.org/download/firefight063/firefight045.png"
+      },
+      {
+         "name_skin":"Firefighter Steve",
+         "install":"https://archive.org/download/firefight063/firefight046.png"
+      },
+      {
+         "name_skin":"Firefighter Suspenders ",
+         "install":"https://archive.org/download/firefight063/firefight047.png"
+      },
+      {
+         "name_skin":"Firefighter",
+         "install":"https://archive.org/download/firefight063/firefight048.png"
+      },
+      {
+         "name_skin":"Firefighter",
+         "install":"https://archive.org/download/firefight063/firefight049.png"
+      },
+      {
+         "name_skin":"Firefighter V  ",
+         "install":"https://archive.org/download/firefight063/firefight050.png"
+      },
+      {
+         "name_skin":"Firefighter",
+         "install":"https://archive.org/download/firefight063/firefight051.png"
+      },
+      {
+         "name_skin":"Firefighter",
+         "install":"https://archive.org/download/firefight063/firefight052.png"
+      },
+      {
+         "name_skin":"Firefighter Women ",
+         "install":"https://archive.org/download/firefight063/firefight053.png"
+      },
+      {
+         "name_skin":"Firefighter",
+         "install":"https://archive.org/download/firefight063/firefight054.png"
+      },
+      {
+         "name_skin":"Firefighter",
+         "install":"https://archive.org/download/firefight063/firefight055.png"
+      },
+      {
+         "name_skin":"FireFighting Bee ",
+         "install":"https://archive.org/download/firefight063/firefight056.png"
+      },
+      {
+         "name_skin":"FireFighting",
+         "install":"https://archive.org/download/firefight063/firefight057.png"
+      },
+      {
+         "name_skin":"FireForce Male ",
+         "install":"https://archive.org/download/firefight063/firefight058.png"
+      },
+      {
+         "name_skin":"Fireman  ",
+         "install":"https://archive.org/download/firefight063/firefight059.png"
+      },
+      {
+         "name_skin":"Fireman Shorts ",
+         "install":"https://archive.org/download/firefight063/firefight060.png"
+      },
+      {
+         "name_skin":"First Responders Firefighters",
+         "install":"https://archive.org/download/firefight063/firefight061.png"
+      },
+      {
+         "name_skin":"German Firefighter",
+         "install":"https://archive.org/download/firefight063/firefight062.png"
+      },
+      {
+         "name_skin":"Hk  Firefighter ",
+         "install":"https://archive.org/download/firefight063/firefight063.png"
+      },
+      {
+         "name_skin":"Imperial Firefighting",
+         "install":"https://archive.org/download/firefight063/firefight064.png"
+      },
+      {
+         "name_skin":"Lafd Arson Officer ",
+         "install":"https://archive.org/download/firefight063/firefight065.png"
+      },
+      {
+         "name_skin":"Lafd Captain W Scba ",
+         "install":"https://archive.org/download/firefight063/firefight066.png"
+      },
+      {
+         "name_skin":"Lafd Fire Chief W Scba ",
+         "install":"https://archive.org/download/firefight063/firefight067.png"
+      },
+      {
+         "name_skin":"Lafd Firefighter W Scba ",
+         "install":"https://archive.org/download/firefight063/firefight068.png"
+      },
+      {
+         "name_skin":"Firefighter Hazmat Oufit ",
+         "install":"https://archive.org/download/firefight063/firefight069.png"
+      },
+      {
+         "name_skin":"Firefighter ",
+         "install":"https://archive.org/download/firefight063/firefight070.png"
+      },
+      {
+         "name_skin":"London FireBrigade Assistant",
+         "install":"https://archive.org/download/firefight063/firefight071.png"
+      },
+      {
+         "name_skin":"London FireBrigade Turnout",
+         "install":"https://archive.org/download/firefight063/firefight072.png"
+      },
+      {
+         "name_skin":"Me Firefighter ",
+         "install":"https://archive.org/download/firefight063/firefight073.png"
+      },
+      {
+         "name_skin":"Mustache Firefighter",
+         "install":"https://archive.org/download/firefight063/firefight074.png"
+      },
+      {
+         "name_skin":"Firefighter Uniform",
+         "install":"https://archive.org/download/firefight063/firefight075.png"
+      },
+      {
+         "name_skin":"NSWales FireBrigade Tan Bunker",
+         "install":"https://archive.org/download/firefight063/firefight076.png"
+      },
+      {
+         "name_skin":"London Ambulance Paramedic",
+         "install":"https://archive.org/download/firefight063/firefight077.png"
+      },
+      {
+         "name_skin":"London Ambulance Paramedic",
+         "install":"https://archive.org/download/firefight063/firefight078.png"
+      },
+      {
+         "name_skin":"No Jacket Firefighter",
+         "install":"https://archive.org/download/firefight063/firefight079.png"
+      },
+      {
+         "name_skin":"Nz Firefighter",
+         "install":"https://archive.org/download/firefight063/firefight080.png"
+      },
+      {
+         "name_skin":"Nz Firefighter",
+         "install":"https://archive.org/download/firefight063/firefight081.png"
+      },
+      {
+         "name_skin":"Nz Firefighter Half Bunker",
+         "install":"https://archive.org/download/firefight063/firefight082.png"
+      },
+      {
+         "name_skin":"Nz Firefighter Level One",
+         "install":"https://archive.org/download/firefight063/firefight083.png"
+      },
+      {
+         "name_skin":"Nz Firefighter Station Officer ",
+         "install":"https://archive.org/download/firefight063/firefight084.png"
+      },
+      {
+         "name_skin":"Nz Firefighter Station Officer With B A Tank ",
+         "install":"https://archive.org/download/firefight063/firefight085.png"
+      },
+      {
+         "name_skin":"Nz Firefighter V",
+         "install":"https://archive.org/download/firefight063/firefight086.png"
+      },
+      {
+         "name_skin":"Nz Firefighter With B A Tank ",
+         "install":"https://archive.org/download/firefight063/firefight087.png"
+      },
+      {
+         "name_skin":"Nz Station Officer Firefighter V ",
+         "install":"https://archive.org/download/firefight063/firefight088.png"
+      },
+      {
+         "name_skin":"Firefighter Bunker Gear   ",
+         "install":"https://archive.org/download/firefight063/firefight089.png"
+      },
+      {
+         "name_skin":"Fire Co  Firefighter ",
+         "install":"https://archive.org/download/firefight063/firefight090.png"
+      },
+      {
+         "name_skin":"Polish Firefighter ",
+         "install":"https://archive.org/download/firefight063/firefight091.png"
+      },
+      {
+         "name_skin":"Rfd Bunker Gear ",
+         "install":"https://archive.org/download/firefight063/firefight092.png"
+      },
+      {
+         "name_skin":"Mix S Firefighter ",
+         "install":"https://archive.org/download/firefight063/firefight093.png"
+      },
+      {
+         "name_skin":"Firefighter",
+         "install":"https://archive.org/download/firefight063/firefight094.png"
+      },
+      {
+         "name_skin":"Speedy Firefighter ",
+         "install":"https://archive.org/download/firefight063/firefight095.png"
+      },
+      {
+         "name_skin":"Emergency Preparedness Force",
+         "install":"https://archive.org/download/firefight063/firefight096.png"
+      },
+      {
+         "name_skin":"Uk Firefighter ",
+         "install":"https://archive.org/download/firefight063/firefight097.png"
+      },
+      {
+         "name_skin":"Firefighter ",
+         "install":"https://archive.org/download/firefight063/firefight098.png"
+      },
+      {
+         "name_skin":"Vintage Firefighter  ",
+         "install":"https://archive.org/download/firefight063/firefight099.png"
+      },
+      {
+         "name_skin":"Firefighter Gear ",
+         "install":"https://archive.org/download/firefight063/firefight100.png"
+      },
+      {
+         "name_skin":"Wildland Firefighter",
+         "install":"https://archive.org/download/firefight063/firefight101.png"
+      },
+      {
+         "name_skin":"Firefighter",
+         "install":"https://archive.org/download/firefight063/firefight102.png"
+      }
+   ]
+}
