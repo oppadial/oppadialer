@@ -1,0 +1,514 @@
+{
+   "Ads":[
+      {
+         "Ads":[
+            {
+               "select_main_ads":"ADMOB",
+               "select_backup_ads":"STARTAPP",
+               "main_ads_banner":"ca-app-pub-3940256099942544/6300978111",
+               "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+               "main_ads_reward":"ca-app-pub-3940256099942544/5224354917",
+               "backup_ads_banner":"",
+               "backup_ads_intertitial":"",
+               "backup_ads_reward":"",
+               "interval_intertitial":5,
+               "initialize_sdk":"",
+               "initialize_sdk_backup_ads":"",
+               "high_paying_keyword_1":"",
+               "high_paying_keyword_2":"",
+               "high_paying_keyword_3":"",
+               "high_paying_keyword_4":"",
+               "high_paying_keyword_5":"",
+               "status_app":"0",
+               "link_redirect":"https://"
+            }
+         ]
+      }
+   ],
+   "Skin":[
+      {
+         "name_skin":"Camouflage Kind Of Thing ",
+         "install":"https://archive.org/download/camouf053/camouf001.png"
+      },
+      {
+         "name_skin":"Algerian Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf002.png"
+      },
+      {
+         "name_skin":"Anci Camouflage",
+         "install":"https://archive.org/download/camouf053/camouf003.png"
+      },
+      {
+         "name_skin":"Armour St Camouflage",
+         "install":"https://archive.org/download/camouf053/camouf004.png"
+      },
+      {
+         "name_skin":"Black Camouflage",
+         "install":"https://archive.org/download/camouf053/camouf005.png"
+      },
+      {
+         "name_skin":"Black Camouflage",
+         "install":"https://archive.org/download/camouf053/camouf006.png"
+      },
+      {
+         "name_skin":"Black Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf007.png"
+      },
+      {
+         "name_skin":"Black Wool Camouflage",
+         "install":"https://archive.org/download/camouf053/camouf008.png"
+      },
+      {
+         "name_skin":"Blue Camouflage",
+         "install":"https://archive.org/download/camouf053/camouf009.png"
+      },
+      {
+         "name_skin":"Blue Camouflage Man ",
+         "install":"https://archive.org/download/camouf053/camouf010.png"
+      },
+      {
+         "name_skin":"Man Camouflage",
+         "install":"https://archive.org/download/camouf053/camouf011.png"
+      },
+      {
+         "name_skin":"Bookshelf Camouflage",
+         "install":"https://archive.org/download/camouf053/camouf012.png"
+      },
+      {
+         "name_skin":"Brown Terracotta Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf013.png"
+      },
+      {
+         "name_skin":"Bushman Skin Camouflage",
+         "install":"https://archive.org/download/camouf053/camouf014.png"
+      },
+      {
+         "name_skin":"Camouflage",
+         "install":"https://archive.org/download/camouf053/camouf015.png"
+      },
+      {
+         "name_skin":"Camouflage",
+         "install":"https://archive.org/download/camouf053/camouf016.png"
+      },
+      {
+         "name_skin":"Camouflage",
+         "install":"https://archive.org/download/camouf053/camouf017.png"
+      },
+      {
+         "name_skin":"Camouflage Dude ",
+         "install":"https://archive.org/download/camouf053/camouf018.png"
+      },
+      {
+         "name_skin":"Camoflauge ",
+         "install":"https://archive.org/download/camouf053/camouf019.png"
+      },
+      {
+         "name_skin":"Camouflage Man ",
+         "install":"https://archive.org/download/camouf053/camouf020.png"
+      },
+      {
+         "name_skin":"Camouflage Skin ",
+         "install":"https://archive.org/download/camouf053/camouf021.png"
+      },
+      {
+         "name_skin":"Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf022.png"
+      },
+      {
+         "name_skin":"Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf023.png"
+      },
+      {
+         "name_skin":"Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf024.png"
+      },
+      {
+         "name_skin":"Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf025.png"
+      },
+      {
+         "name_skin":"Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf026.png"
+      },
+      {
+         "name_skin":"Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf027.png"
+      },
+      {
+         "name_skin":"Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf028.png"
+      },
+      {
+         "name_skin":"Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf029.png"
+      },
+      {
+         "name_skin":"Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf030.png"
+      },
+      {
+         "name_skin":"Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf031.png"
+      },
+      {
+         "name_skin":"Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf032.png"
+      },
+      {
+         "name_skin":"Camouflage Blaz",
+         "install":"https://archive.org/download/camouf053/camouf033.png"
+      },
+      {
+         "name_skin":"Camouflage Dirt",
+         "install":"https://archive.org/download/camouf053/camouf034.png"
+      },
+      {
+         "name_skin":"Camouflage Guy  ",
+         "install":"https://archive.org/download/camouf053/camouf035.png"
+      },
+      {
+         "name_skin":"Camouflage Man",
+         "install":"https://archive.org/download/camouf053/camouf036.png"
+      },
+      {
+         "name_skin":"Camouflage Military Skin",
+         "install":"https://archive.org/download/camouf053/camouf037.png"
+      },
+      {
+         "name_skin":"Camouflage Warrior Skin",
+         "install":"https://archive.org/download/camouf053/camouf038.png"
+      },
+      {
+         "name_skin":"Chest Texture ",
+         "install":"https://archive.org/download/camouf053/camouf039.png"
+      },
+      {
+         "name_skin":"Cobblestone Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf040.png"
+      },
+      {
+         "name_skin":"Ice Block Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf041.png"
+      },
+      {
+         "name_skin":"Snow Block Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf042.png"
+      },
+      {
+         "name_skin":"Dark Flossycap ",
+         "install":"https://archive.org/download/camouf053/camouf043.png"
+      },
+      {
+         "name_skin":"Dark Green Camoflage ",
+         "install":"https://archive.org/download/camouf053/camouf044.png"
+      },
+      {
+         "name_skin":"Deepsl Diamond Ore ",
+         "install":"https://archive.org/download/camouf053/camouf045.png"
+      },
+      {
+         "name_skin":"Derp Camouflage My First Skin   ",
+         "install":"https://archive.org/download/camouf053/camouf046.png"
+      },
+      {
+         "name_skin":"Desert Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf047.png"
+      },
+      {
+         "name_skin":"Water Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf048.png"
+      },
+      {
+         "name_skin":"Diamond Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf049.png"
+      },
+      {
+         "name_skin":"Diamond Camouflage Texture ",
+         "install":"https://archive.org/download/camouf053/camouf050.png"
+      },
+      {
+         "name_skin":"Dirt Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf051.png"
+      },
+      {
+         "name_skin":"Dirt Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf052.png"
+      },
+      {
+         "name_skin":"Dirt Camouflage Skin ",
+         "install":"https://archive.org/download/camouf053/camouf053.png"
+      },
+      {
+         "name_skin":"Dirt Skin ",
+         "install":"https://archive.org/download/camouf053/camouf054.png"
+      },
+      {
+         "name_skin":"Dirt Skin Camouflage Skin ",
+         "install":"https://archive.org/download/camouf053/camouf055.png"
+      },
+      {
+         "name_skin":"Dirt  Water Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf056.png"
+      },
+      {
+         "name_skin":"Elite Soldier Camouflage",
+         "install":"https://archive.org/download/camouf053/camouf057.png"
+      },
+      {
+         "name_skin":"Camouflage Dirt ",
+         "install":"https://archive.org/download/camouf053/camouf058.png"
+      },
+      {
+         "name_skin":"Endercamouflage  ",
+         "install":"https://archive.org/download/camouf053/camouf059.png"
+      },
+      {
+         "name_skin":"Endercamouflage  Texture ",
+         "install":"https://archive.org/download/camouf053/camouf060.png"
+      },
+      {
+         "name_skin":"Enderwater Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf061.png"
+      },
+      {
+         "name_skin":"Stone Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf062.png"
+      },
+      {
+         "name_skin":"Fire Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf063.png"
+      },
+      {
+         "name_skin":"Ghillie Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf064.png"
+      },
+      {
+         "name_skin":"Glass Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf065.png"
+      },
+      {
+         "name_skin":"Gold Camouflage",
+         "install":"https://archive.org/download/camouf053/camouf066.png"
+      },
+      {
+         "name_skin":"Granite Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf067.png"
+      },
+      {
+         "name_skin":"Grass Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf068.png"
+      },
+      {
+         "name_skin":"Grass Camouflage  ",
+         "install":"https://archive.org/download/camouf053/camouf069.png"
+      },
+      {
+         "name_skin":"Grass Dirt Block",
+         "install":"https://archive.org/download/camouf053/camouf070.png"
+      },
+      {
+         "name_skin":"Grass Boy Camouflage",
+         "install":"https://archive.org/download/camouf053/camouf071.png"
+      },
+      {
+         "name_skin":"Grass Camouflage Original ",
+         "install":"https://archive.org/download/camouf053/camouf072.png"
+      },
+      {
+         "name_skin":"Hay Bale Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf073.png"
+      },
+      {
+         "name_skin":"Lava Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf074.png"
+      },
+      {
+         "name_skin":"Lava Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf075.png"
+      },
+      {
+         "name_skin":"Leaf Cyclops Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf076.png"
+      },
+      {
+         "name_skin":"Leaf Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf077.png"
+      },
+      {
+         "name_skin":"Melon Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf078.png"
+      },
+      {
+         "name_skin":"Night Camouflage Skin ",
+         "install":"https://archive.org/download/camouf053/camouf079.png"
+      },
+      {
+         "name_skin":"Oak Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf080.png"
+      },
+      {
+         "name_skin":"Oak Leaf Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf081.png"
+      },
+      {
+         "name_skin":"Oak Log Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf082.png"
+      },
+      {
+         "name_skin":"Oak Log Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf083.png"
+      },
+      {
+         "name_skin":"Oak Logs Camouflage Texture ",
+         "install":"https://archive.org/download/camouf053/camouf084.png"
+      },
+      {
+         "name_skin":"Oak Wood Planks Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf085.png"
+      },
+      {
+         "name_skin":"Octopus Camouflage",
+         "install":"https://archive.org/download/camouf053/camouf086.png"
+      },
+      {
+         "name_skin":"Old Machine Camouflage",
+         "install":"https://archive.org/download/camouf053/camouf087.png"
+      },
+      {
+         "name_skin":"Plain Wood Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf088.png"
+      },
+      {
+         "name_skin":"Red Camouflage",
+         "install":"https://archive.org/download/camouf053/camouf089.png"
+      },
+      {
+         "name_skin":"Red Concreate Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf090.png"
+      },
+      {
+         "name_skin":"Red Wool Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf091.png"
+      },
+      {
+         "name_skin":"Sand Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf092.png"
+      },
+      {
+         "name_skin":"Sand Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf093.png"
+      },
+      {
+         "name_skin":"Sand Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf094.png"
+      },
+      {
+         "name_skin":"Sand Dude Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf095.png"
+      },
+      {
+         "name_skin":"Soldier Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf096.png"
+      },
+      {
+         "name_skin":"Squid Camouflage",
+         "install":"https://archive.org/download/camouf053/camouf097.png"
+      },
+      {
+         "name_skin":"Stone Camouflage",
+         "install":"https://archive.org/download/camouf053/camouf098.png"
+      },
+      {
+         "name_skin":"Stone Brick Double Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf099.png"
+      },
+      {
+         "name_skin":"Stone Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf100.png"
+      },
+      {
+         "name_skin":"Stone Camouflage Skin  ",
+         "install":"https://archive.org/download/camouf053/camouf101.png"
+      },
+      {
+         "name_skin":"Stone Camouflage Texture ",
+         "install":"https://archive.org/download/camouf053/camouf102.png"
+      },
+      {
+         "name_skin":"Stone Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf103.png"
+      },
+      {
+         "name_skin":"Stone With Face ",
+         "install":"https://archive.org/download/camouf053/camouf104.png"
+      },
+      {
+         "name_skin":"Swamp Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf105.png"
+      },
+      {
+         "name_skin":"The Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf106.png"
+      },
+      {
+         "name_skin":"The Green Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf107.png"
+      },
+      {
+         "name_skin":"Theshadow Camouflage",
+         "install":"https://archive.org/download/camouf053/camouf108.png"
+      },
+      {
+         "name_skin":"The World Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf109.png"
+      },
+      {
+         "name_skin":"Total Black Camouflage",
+         "install":"https://archive.org/download/camouf053/camouf110.png"
+      },
+      {
+         "name_skin":"Tree Man ",
+         "install":"https://archive.org/download/camouf053/camouf111.png"
+      },
+      {
+         "name_skin":"Tropic Military Combat Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf112.png"
+      },
+      {
+         "name_skin":"Water Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf113.png"
+      },
+      {
+         "name_skin":"Water Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf114.png"
+      },
+      {
+         "name_skin":"Water Creature ",
+         "install":"https://archive.org/download/camouf053/camouf115.png"
+      },
+      {
+         "name_skin":"Camouflage Urban Black ",
+         "install":"https://archive.org/download/camouf053/camouf116.png"
+      },
+      {
+         "name_skin":"Winter Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf117.png"
+      },
+      {
+         "name_skin":"Wood Camouflage",
+         "install":"https://archive.org/download/camouf053/camouf118.png"
+      },
+      {
+         "name_skin":"Wood And Stone Camouflage ",
+         "install":"https://archive.org/download/camouf053/camouf119.png"
+      },
+      {
+         "name_skin":"Wooden Man ",
+         "install":"https://archive.org/download/camouf053/camouf120.png"
+      },
+      {
+         "name_skin":"Camouflage Skin",
+         "install":"https://archive.org/download/camouf053/camouf121.png"
+      }
+   ]
+}
