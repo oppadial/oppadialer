@@ -1,0 +1,756 @@
+{
+   "Ads":[
+      {
+         "select_main_ads":"ADMOB",
+         "select_backup_ads":"APPLOVIN-D",
+         "main_ads_banner":"ca-app-pub-3940256099942544/6300978111",
+         "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+         "main_ads_natives":"",
+         "main_ads_rewards":"",
+         "backup_ads_natives":"",
+         "backup_ads_banner":"db4d5e8718b97d78",
+         "backup_ads_intertitial":"518cd97722c60b52",
+         "backup_ads_rewards":"",
+         "open_ads_admob":"",
+         "open_ads_alien":"",
+         "switch_open_ads":"1",
+         "switch_banner_natives_ads":"",
+         "interval_intertitial":5,
+         "initialize_sdk":"107355779",
+         "initialize_sdk_backup_ads":"",
+         "high_paying_keyword_1":"",
+         "high_paying_keyword_2":"",
+         "high_paying_keyword_3":"",
+         "high_paying_keyword_4":"",
+         "high_paying_keyword_5":"",
+         "status_app":"0",
+         "link_redirect":"https://"
+      }
+   ],
+   "More":[
+      {
+         "id":1,
+         "title":"Ludo King",
+         "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+         "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+      },
+      {
+         "id":2,
+         "title":"Homescapes",
+         "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+         "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+      },
+      {
+         "id":3,
+         "title":"Minecraft",
+         "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+         "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+      }
+   ],
+   "Skin":[
+      {
+         "id":1,
+         "name_skin":"Firefighter Skin 1",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/1.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/1.png"
+      },
+      {
+         "id":2,
+         "name_skin":"Firefighter Skin 2",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/2.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/2.png"
+      },
+      {
+         "id":3,
+         "name_skin":"Firefighter Skin 3",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/3.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/3.png"
+      },
+      {
+         "id":4,
+         "name_skin":"Firefighter Skin 4",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/4.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/4.png"
+      },
+      {
+         "id":5,
+         "name_skin":"Firefighter Skin 5",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/5.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/5.png"
+      },
+      {
+         "id":6,
+         "name_skin":"Firefighter Skin 6",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/6.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/6.png"
+      },
+      {
+         "id":7,
+         "name_skin":"Firefighter Skin 7",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/7.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/7.png"
+      },
+      {
+         "id":8,
+         "name_skin":"Firefighter Skin 8",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/8.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/8.png"
+      },
+      {
+         "id":9,
+         "name_skin":"Firefighter Skin 9",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/9.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/9.png"
+      },
+      {
+         "id":10,
+         "name_skin":"Firefighter Skin 10",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/10.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/10.png"
+      },
+      {
+         "id":11,
+         "name_skin":"Firefighter Skin 11",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/11.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/11.png"
+      },
+      {
+         "id":12,
+         "name_skin":"Firefighter Skin 12",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/12.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/12.png"
+      },
+      {
+         "id":13,
+         "name_skin":"Firefighter Skin 13",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/13.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/13.png"
+      },
+      {
+         "id":14,
+         "name_skin":"Firefighter Skin 14",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/14.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/14.png"
+      },
+      {
+         "id":15,
+         "name_skin":"Firefighter Skin 15",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/15.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/15.png"
+      },
+      {
+         "id":16,
+         "name_skin":"Firefighter Skin 16",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/16.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/16.png"
+      },
+      {
+         "id":17,
+         "name_skin":"Firefighter Skin 17",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/17.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/17.png"
+      },
+      {
+         "id":18,
+         "name_skin":"Firefighter Skin 18",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/18.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/18.png"
+      },
+      {
+         "id":19,
+         "name_skin":"Firefighter Skin 19",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/19.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/19.png"
+      },
+      {
+         "id":20,
+         "name_skin":"Firefighter Skin 20",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/20.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/20.png"
+      },
+      {
+         "id":21,
+         "name_skin":"Firefighter Skin 21",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/21.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/21.png"
+      },
+      {
+         "id":22,
+         "name_skin":"Firefighter Skin 22",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/22.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/22.png"
+      },
+      {
+         "id":23,
+         "name_skin":"Firefighter Skin 23",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/23.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/23.png"
+      },
+      {
+         "id":24,
+         "name_skin":"Firefighter Skin 24",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/24.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/24.png"
+      },
+      {
+         "id":25,
+         "name_skin":"Firefighter Skin 25",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/25.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/25.png"
+      },
+      {
+         "id":26,
+         "name_skin":"Firefighter Skin 26",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/26.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/26.png"
+      },
+      {
+         "id":27,
+         "name_skin":"Firefighter Skin 27",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/27.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/27.png"
+      },
+      {
+         "id":28,
+         "name_skin":"Firefighter Skin 28",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/28.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/28.png"
+      },
+      {
+         "id":29,
+         "name_skin":"Firefighter Skin 29",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/29.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/29.png"
+      },
+      {
+         "id":30,
+         "name_skin":"Firefighter Skin 30",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/30.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/30.png"
+      },
+      {
+         "id":31,
+         "name_skin":"Firefighter Skin 31",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/31.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/31.png"
+      },
+      {
+         "id":32,
+         "name_skin":"Firefighter Skin 32",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/32.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/32.png"
+      },
+      {
+         "id":33,
+         "name_skin":"Firefighter Skin 33",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/33.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/33.png"
+      },
+      {
+         "id":34,
+         "name_skin":"Firefighter Skin 34",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/34.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/34.png"
+      },
+      {
+         "id":35,
+         "name_skin":"Firefighter Skin 35",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/35.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/35.png"
+      },
+      {
+         "id":36,
+         "name_skin":"Firefighter Skin 36",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/36.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/36.png"
+      },
+      {
+         "id":37,
+         "name_skin":"Firefighter Skin 37",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/37.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/37.png"
+      },
+      {
+         "id":38,
+         "name_skin":"Firefighter Skin 38",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/38.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/38.png"
+      },
+      {
+         "id":39,
+         "name_skin":"Firefighter Skin 39",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/39.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/39.png"
+      },
+      {
+         "id":40,
+         "name_skin":"Firefighter Skin 40",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/40.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/40.png"
+      },
+      {
+         "id":41,
+         "name_skin":"Firefighter Skin 41",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/41.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/41.png"
+      },
+      {
+         "id":42,
+         "name_skin":"Firefighter Skin 42",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/42.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/42.png"
+      },
+      {
+         "id":43,
+         "name_skin":"Firefighter Skin 43",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/43.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/43.png"
+      },
+      {
+         "id":44,
+         "name_skin":"Firefighter Skin 44",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/44.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/44.png"
+      },
+      {
+         "id":45,
+         "name_skin":"Firefighter Skin 45",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/45.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/45.png"
+      },
+      {
+         "id":46,
+         "name_skin":"Firefighter Skin 46",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/46.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/46.png"
+      },
+      {
+         "id":47,
+         "name_skin":"Firefighter Skin 47",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/47.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/47.png"
+      },
+      {
+         "id":48,
+         "name_skin":"Firefighter Skin 48",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/48.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/48.png"
+      },
+      {
+         "id":49,
+         "name_skin":"Firefighter Skin 49",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/49.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/49.png"
+      },
+      {
+         "id":50,
+         "name_skin":"Firefighter Skin 50",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/50.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/50.png"
+      },
+      {
+         "id":51,
+         "name_skin":"Firefighter Skin 51",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/51.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/51.png"
+      },
+      {
+         "id":52,
+         "name_skin":"Firefighter Skin 52",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/52.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/52.png"
+      },
+      {
+         "id":53,
+         "name_skin":"Firefighter Skin 53",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/53.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/53.png"
+      },
+      {
+         "id":54,
+         "name_skin":"Firefighter Skin 54",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/54.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/54.png"
+      },
+      {
+         "id":55,
+         "name_skin":"Firefighter Skin 55",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/55.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/55.png"
+      },
+      {
+         "id":56,
+         "name_skin":"Firefighter Skin 56",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/56.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/56.png"
+      },
+      {
+         "id":57,
+         "name_skin":"Firefighter Skin 57",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/57.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/57.png"
+      },
+      {
+         "id":58,
+         "name_skin":"Firefighter Skin 58",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/58.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/58.png"
+      },
+      {
+         "id":59,
+         "name_skin":"Firefighter Skin 59",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/59.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/59.png"
+      },
+      {
+         "id":60,
+         "name_skin":"Firefighter Skin 60",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/60.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/60.png"
+      },
+      {
+         "id":61,
+         "name_skin":"Firefighter Skin 61",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/61.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/61.png"
+      },
+      {
+         "id":62,
+         "name_skin":"Firefighter Skin 62",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/62.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/62.png"
+      },
+      {
+         "id":63,
+         "name_skin":"Firefighter Skin 63",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/63.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/63.png"
+      },
+      {
+         "id":64,
+         "name_skin":"Firefighter Skin 64",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/64.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/64.png"
+      },
+      {
+         "id":65,
+         "name_skin":"Firefighter Skin 65",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/65.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/65.png"
+      },
+      {
+         "id":66,
+         "name_skin":"Firefighter Skin 66",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/66.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/66.png"
+      },
+      {
+         "id":67,
+         "name_skin":"Firefighter Skin 67",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/67.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/67.png"
+      },
+      {
+         "id":68,
+         "name_skin":"Firefighter Skin 68",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/68.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/68.png"
+      },
+      {
+         "id":69,
+         "name_skin":"Firefighter Skin 69",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/69.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/69.png"
+      },
+      {
+         "id":70,
+         "name_skin":"Firefighter Skin 70",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/70.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/70.png"
+      },
+      {
+         "id":71,
+         "name_skin":"Firefighter Skin 71",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/71.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/71.png"
+      },
+      {
+         "id":72,
+         "name_skin":"Firefighter Skin 72",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/72.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/72.png"
+      },
+      {
+         "id":73,
+         "name_skin":"Firefighter Skin 73",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/73.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/73.png"
+      },
+      {
+         "id":74,
+         "name_skin":"Firefighter Skin 74",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/74.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/74.png"
+      },
+      {
+         "id":75,
+         "name_skin":"Firefighter Skin 75",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/75.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/75.png"
+      },
+      {
+         "id":76,
+         "name_skin":"Firefighter Skin 76",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/76.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/76.png"
+      },
+      {
+         "id":77,
+         "name_skin":"Firefighter Skin 77",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/77.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/77.png"
+      },
+      {
+         "id":78,
+         "name_skin":"Firefighter Skin 78",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/78.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/78.png"
+      },
+      {
+         "id":79,
+         "name_skin":"Firefighter Skin 79",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/79.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/79.png"
+      },
+      {
+         "id":80,
+         "name_skin":"Firefighter Skin 80",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/80.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/80.png"
+      },
+      {
+         "id":81,
+         "name_skin":"Firefighter Skin 81",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/81.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/81.png"
+      },
+      {
+         "id":82,
+         "name_skin":"Firefighter Skin 82",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/82.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/82.png"
+      },
+      {
+         "id":83,
+         "name_skin":"Firefighter Skin 83",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/83.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/83.png"
+      },
+      {
+         "id":84,
+         "name_skin":"Firefighter Skin 84",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/84.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/84.png"
+      },
+      {
+         "id":85,
+         "name_skin":"Firefighter Skin 85",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/85.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/85.png"
+      },
+      {
+         "id":86,
+         "name_skin":"Firefighter Skin 86",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/86.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/86.png"
+      },
+      {
+         "id":87,
+         "name_skin":"Firefighter Skin 87",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/87.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/87.png"
+      },
+      {
+         "id":88,
+         "name_skin":"Firefighter Skin 88",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/88.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/88.png"
+      },
+      {
+         "id":89,
+         "name_skin":"Firefighter Skin 89",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/89.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/89.png"
+      },
+      {
+         "id":90,
+         "name_skin":"Firefighter Skin 90",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/90.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/90.png"
+      },
+      {
+         "id":91,
+         "name_skin":"Firefighter Skin 91",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/91.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/91.png"
+      },
+      {
+         "id":92,
+         "name_skin":"Firefighter Skin 92",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/92.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/92.png"
+      },
+      {
+         "id":93,
+         "name_skin":"Firefighter Skin 93",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/93.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/93.png"
+      },
+      {
+         "id":94,
+         "name_skin":"Firefighter Skin 94",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/94.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/94.png"
+      },
+      {
+         "id":95,
+         "name_skin":"Firefighter Skin 95",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/95.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/95.png"
+      },
+      {
+         "id":96,
+         "name_skin":"Firefighter Skin 96",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/96.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/96.png"
+      },
+      {
+         "id":97,
+         "name_skin":"Firefighter Skin 97",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/97.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/97.png"
+      },
+      {
+         "id":98,
+         "name_skin":"Firefighter Skin 98",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/98.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/98.png"
+      },
+      {
+         "id":99,
+         "name_skin":"Firefighter Skin 99",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/99.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/99.png"
+      },
+      {
+         "id":100,
+         "name_skin":"Firefighter Skin 100",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/100.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/100.png"
+      },
+      {
+         "id":101,
+         "name_skin":"Firefighter Skin 101",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/101.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/101.png"
+      },
+      {
+         "id":102,
+         "name_skin":"Firefighter Skin 102",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/102.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/102.png"
+      },
+      {
+         "id":103,
+         "name_skin":"Firefighter Skin 103",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/103.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/103.png"
+      },
+      {
+         "id":104,
+         "name_skin":"Firefighter Skin 104",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/104.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/104.png"
+      },
+      {
+         "id":105,
+         "name_skin":"Firefighter Skin 105",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/105.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/105.png"
+      },
+      {
+         "id":106,
+         "name_skin":"Firefighter Skin 106",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/106.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/106.png"
+      },
+      {
+         "id":107,
+         "name_skin":"Firefighter Skin 107",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/107.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/107.png"
+      },
+      {
+         "id":108,
+         "name_skin":"Firefighter Skin 108",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/108.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/108.png"
+      },
+      {
+         "id":109,
+         "name_skin":"Firefighter Skin 109",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/109.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/109.png"
+      },
+      {
+         "id":110,
+         "name_skin":"Firefighter Skin 110",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/110.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/110.png"
+      },
+      {
+         "id":111,
+         "name_skin":"Firefighter Skin 111",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/111.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/111.png"
+      },
+      {
+         "id":112,
+         "name_skin":"Firefighter Skin 112",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/112.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/112.png"
+      },
+      {
+         "id":113,
+         "name_skin":"Firefighter Skin 113",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/113.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/113.png"
+      },
+      {
+         "id":114,
+         "name_skin":"Firefighter Skin 114",
+         "skin_url":"https://archive.org/download/skinfirefighterUrut/114.png",
+         "view_skin":"https://archive.org/download/ViewfirefighterUrut/114.png"
+      }
+   ],
+   "Addons":[
+      {
+         "id":1,
+         "name_add":"Cat Plush",
+         "add_url":"https://aliendro.id/uploads/demo/skinaddonmap/catplus.zip",
+         "addB_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus B.mcpack",
+         "addR_url":"https://aliendro.id/uploads/demo/skinaddonmap/Cats Plus R.mcpack",
+         "view_add":"https://aliendro.id/uploads/demo/skinaddonmap/cat.png",
+         "des_add":"https://aliendro.id/uploads/demo/skinaddonmap/cats.html"
+      }
+   ],
+   "Maps":[
+      {
+         "id":1,
+         "name_map":"Hello Neighbor2",
+         "map_url":"https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
+         "view_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
+         "des_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+      }
+   ]
+}
