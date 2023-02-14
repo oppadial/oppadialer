@@ -29,7 +29,7 @@
          "id":1,
          "category":"ROBAN",
          "title":"Actras Tronton",
-         "image":"file:///android_asset/Actras Trontonss.jpg",
+         "image":"https://oppadialerz.files.wordpress.com/2023/02/actras-trontonss.jpg",
          "link_mods":"https://archive.org/download/trukalasroban/Truk%20Actros.bussidmod",
          "link_livery":"https://archive.org/download/trukalasroban/3%20MUSTANG%20SHELBY%20BY%20JF%20CHANNEL%20PRD%20093.png"
       },
@@ -37,7 +37,7 @@
          "id":2,
          "category":"ROBAN",
          "title":"Bunda Dump",
-         "image":"file:///android_asset/Bunda Dumpss.jpg",
+         "image":"https://oppadialerz.files.wordpress.com/2023/02/bunda-dumpss.jpg",
          "link_mods":"https://archive.org/download/trukalasroban/13.%20canter_dump_standar.bussidmod",
          "link_livery":"https://archive.org/download/trukalasroban/LIVERY%20BUNDA%20BY%20janwari.01.01%20V2.png"
       },
@@ -45,7 +45,7 @@
          "id":3,
          "category":"ROBAN",
          "title":"Ghino C13 Kargo",
-         "image":"file:///android_asset/Ghino C13 Kargoss.jpg",
+         "image":"https://oppadialerz.files.wordpress.com/2023/02/ghino-c13-kargoss.jpg",
          "link_mods":"https://archive.org/download/trukalasroban/tam%20cargo.bussidmod",
          "link_livery":"https://archive.org/download/trukalasroban/BLUE%20CARGO%20BY%20KODOD.png"
       },
@@ -53,7 +53,7 @@
          "id":4,
          "category":"ROBAN",
          "title":"Ghino C6 Tronton",
-         "image":"file:///android_asset/Ghino C6 Trontonss.jpg",
+         "image":"https://oppadialerz.files.wordpress.com/2023/02/ghino-c6-trontonss.jpg",
          "link_mods":"https://archive.org/download/trukalasroban/smc.bussidmod",
          "link_livery":"https://archive.org/download/trukalasroban/3d%20C6%20smc%20by%20maruf%20salam%20%281%29.png"
       },
@@ -61,7 +61,7 @@
          "id":5,
          "category":"ROBAN",
          "title":"Ghino Crane",
-         "image":"file:///android_asset/Ghino Craness.jpg",
+         "image":"https://oppadialerz.files.wordpress.com/2023/02/ghino-craness.jpg",
          "link_mods":"https://archive.org/download/trukalasroban/PDSI%20NEXGEN%20OVERLOAD.bussidmod",
          "link_livery":"https://archive.org/download/trukalasroban/PDSI.png"
       },
@@ -69,25 +69,9 @@
          "id":6,
          "category":"ROBAN",
          "title":"Ghino Lohan",
-         "image":"file:///android_asset/Ghino Lohanss.jpg",
+         "image":"https://oppadialerz.files.wordpress.com/2023/02/ghino-lohanss.jpg",
          "link_mods":"https://archive.org/download/trukalasroban/hino%20lohan.bussidmod",
          "link_livery":"https://archive.org/download/trukalasroban/IMG_20210515_075538.png"
-      },
-      {
-         "id":7,
-         "category":"ROBAN",
-         "title":"Isusi Tronton",
-         "image":"file:///android_asset/Isusi Trontonss.jpg",
-         "link_mods":"https://archive.org/download/trukalasroban/Isuzu%20Tronton%20Edit%20Hidayat%20Official.bussidmod",
-         "link_livery":"null"
-      },
-      {
-         "id":8,
-         "category":"ROBAN",
-         "title":"Puco 3Bal",
-         "image":"file:///android_asset/Puco 3Balss.jpg",
-         "link_mods":"https://archive.org/download/trukalasroban/Fuso%20Terpal%20Tribal.bussidmod",
-         "link_livery":"null"
       },
       {
          "id":9,
@@ -101,7 +85,7 @@
          "id":10,
          "category":"ROBAN",
          "title":"Puco FN6 Dua",
-         "image":"file:///android_asset/Puco FN6 Duass.jpg",
+         "image":"https://oppadialerz.files.wordpress.com/2023/02/puco-c10-fighterss.jpg",
          "link_mods":"https://archive.org/download/trukalasroban/FUSO%20ANGKUT%20MOTOR.bussidmod",
          "link_livery":"https://archive.org/download/trukalasroban/LIVERY%20BY%20RIAN%20GAMING%283%29.png"
       },
@@ -117,65 +101,33 @@
          "id":12,
          "category":"ROBAN",
          "title":"Puco Tronton Muat Berat",
-         "image":"file:///android_asset/Puco Tronton Muat Beratss.jpg",
+         "image":"https://oppadialerz.files.wordpress.com/2023/02/puco-tronton-muat-beratss.jpg",
          "link_mods":"https://archive.org/download/trukalasroban/Fs%20Tribal.bussidmod",
          "link_livery":"null"
-      },
-      {
-         "id":13,
-         "category":"ROBAN",
-         "title":"Puso Tronton C190",
-         "image":"file:///android_asset/Puso Tronton C190ss.jpg",
-         "link_mods":"https://archive.org/download/trukalasroban/cpo%20trinton.bussidmod",
-         "link_livery":"https://archive.org/download/trukalasroban/1Bismmilah%20fix.png"
       },
       {
          "id":14,
          "category":"ROBAN",
          "title":"Taruna Putri",
-         "image":"file:///android_asset/Taruna Putriss.jpg",
+         "image":"https://oppadialerz.files.wordpress.com/2023/02/taruna-putriss.jpg",
          "link_mods":"https://archive.org/download/trukalasroban/Truck%20Canter%20Gayor.bussidmod",
          "link_livery":"https://archive.org/download/trukalasroban/Livery%20canter%20v%202%20HSD%20Taruna%20Pari.png"
-      },
-      {
-         "id":15,
-         "category":"ROBAN",
-         "title":"Tronton Bak Terpal",
-         "image":"file:///android_asset/Tronton Bak Terpalss.jpg",
-         "link_mods":"https://archive.org/download/trukalasroban/Tronton%20Bak%20Terpal%20Horn%20Besar.bussidmod",
-         "link_livery":"null"
       },
       {
          "id":16,
          "category":"ROBAN",
          "title":"Tronton C8",
-         "image":"file:///android_asset/Tronton C8ss.jpg",
+         "image":"https://oppadialerz.files.wordpress.com/2023/02/tronton-c8ss.jpg",
          "link_mods":"https://archive.org/download/trukalasroban/c8%20terpal%20sumatraan.bussidmod",
          "link_livery":"https://archive.org/download/trukalasroban/c8%20TRANS%20SUMATERA.png"
-      },
-      {
-         "id":17,
-         "category":"ROBAN",
-         "title":"Tronton Full LED",
-         "image":"file:///android_asset/Tronton Full LEDss.jpg",
-         "link_mods":"https://archive.org/download/trukalasroban/hino%20500%20ng%20by%20sg.bussidmod",
-         "link_livery":"null"
       },
       {
          "id":18,
          "category":"ROBAN",
          "title":"Tronton Sawit Gayor",
-         "image":"file:///android_asset/Tronton Sawit Gayorss.jpg",
+         "image":"https://oppadialerz.files.wordpress.com/2023/02/tronton-sawit-gayorss.jpg",
          "link_mods":"https://archive.org/download/trukalasroban/HINO%20sawit.bussidmod",
          "link_livery":"https://archive.org/download/trukalasroban/hino1.png"
-      },
-      {
-         "id":19,
-         "category":"ROBAN",
-         "title":"Tronton Segitiga",
-         "image":"file:///android_asset/Tronton Segitigass.jpg",
-         "link_mods":"https://archive.org/download/trukalasroban/var_1.bussidmod",
-         "link_livery":"https://archive.org/download/trukalasroban/Hinoo.png"
       }
    ]
 }
