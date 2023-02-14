@@ -1,0 +1,117 @@
+{
+   "Ads":[
+      {
+         "select_main_ads":"ADMOB",
+         "select_backup_ads":"null",
+         "main_ads_banner":"ca-app-pub-3940256099942544/6300978111",
+         "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+         "main_native_ads_Admob_or_applovin":"ca-app-pub-3940256099942544/2247696110",
+         "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+         "backup_native_ads_Admob_or_applovin":"",
+         "backup_ads_banner":"DefaultBanner",
+         "backup_ads_intertitial":"DefaultInterstitial",
+         "backup_ads_rewards":"DefaultRewardedVideo",
+         "interval_intertitial":1,
+         "initialize_sdk":"",
+         "initialize_sdk_backup_ads":"",
+         "survey_api_key":"5f4752a3-6963-43a8-af0b-479dcbcca8dc",
+         "high_paying_keyword_1":"",
+         "high_paying_keyword_2":"",
+         "high_paying_keyword_3":"",
+         "high_paying_keyword_4":"",
+         "high_paying_keyword_5":"",
+         "status_app":"0",
+         "link_redirect":"https://"
+      }
+   ],
+   "DATA":[
+      {
+         "id":1,
+         "category":"SUSEMPUK",
+         "title":"Cuanter Gabah Balap",
+         "image":"file:///android_asset/CanterGabahBalapss.jpg",
+         "link_mods":"https://archive.org/download/BussidSuspensiEmpuk/CanterGabahBalap.bussidmod",
+         "link_livery":"https://archive.org/download/BussidSuspensiEmpuk/CanterGabahBalap.png"
+      },
+      {
+         "id":2,
+         "category":"SUSEMPUK",
+         "title":"Cuanter Muat Beras",
+         "image":"file:///android_asset/CanterMuatBerasss.jpg",
+         "link_mods":"https://archive.org/download/BussidSuspensiEmpuk/CanterMuatBeras.bussidmod",
+         "link_livery":"https://archive.org/download/BussidSuspensiEmpuk/CanterMuatBeras.png"
+      },
+      {
+         "id":3,
+         "category":"SUSEMPUK",
+         "title":"Cuanter Hasil Mandiri",
+         "image":"file:///android_asset/CanterHasilMandiriss.jpg",
+         "link_mods":"https://archive.org/download/BussidSuspensiEmpuk/CanterHasilMandiri.bussidmod",
+         "link_livery":"https://archive.org/download/BussidSuspensiEmpuk/CanterHasilMandiri.png"
+      },
+      {
+         "id":4,
+         "category":"SUSEMPUK",
+         "title":"Cuanter Polosan Mbois",
+         "image":"file:///android_asset/CanterPolosanMboisss.jpg",
+         "link_mods":"https://archive.org/download/BussidSuspensiEmpuk/CanterPolosanMbois.bussidmod",
+         "link_livery":"https://archive.org/download/BussidSuspensiEmpuk/CanterPolosanMbois.png"
+      },
+      {
+         "id":5,
+         "category":"SUSEMPUK",
+         "title":"Cuanter Rebeca",
+         "image":"file:///android_asset/CanterRebecass.jpg",
+         "link_mods":"https://archive.org/download/BussidSuspensiEmpuk/CanterRebeca.bussidmod",
+         "link_livery":"https://archive.org/download/BussidSuspensiEmpuk/CanterRebeca.png"
+      },
+      {
+         "id":6,
+         "category":"SUSEMPUK",
+         "title":"Cuanter Minimalis",
+         "image":"file:///android_asset/CanterMinimalisss.jpg",
+         "link_mods":"https://archive.org/download/BussidSuspensiEmpuk/CanterMinimalis.bussidmod",
+         "link_livery":"https://archive.org/download/BussidSuspensiEmpuk/CanterMinimalis.png"
+      },
+      {
+         "id":9,
+         "category":"SUSEMPUK",
+         "title":"Cuanter Street Racing",
+         "image":"file:///android_asset/CanterStreetRacingss.jpg",
+         "link_mods":"https://archive.org/download/BussidSuspensiEmpuk/CanterStreetRacing.bussidmod",
+         "link_livery":"https://archive.org/download/BussidSuspensiEmpuk/CanterStreetRacing.png"
+      },
+      {
+         "id":10,
+         "category":"SUSEMPUK",
+         "title":"Cuanter Suspensi Real Gayor",
+         "image":"file:///android_asset/CanterSuspensiRealGayorss.jpg",
+         "link_mods":"https://archive.org/download/BussidSuspensiEmpuk/CanterSuspensiRealGayor.bussidmod",
+         "link_livery":"https://archive.org/download/BussidSuspensiEmpuk/CanterSuspensiRealGayor.png"
+      },
+      {
+         "id":11,
+         "category":"SUSEMPUK",
+         "title":"Huino Sengon Balap",
+         "image":"file:///android_asset/DutroSengonss.jpg",
+         "link_mods":"https://archive.org/download/BussidSuspensiEmpuk/DutroSengon.bussidmod",
+         "link_livery":"https://archive.org/download/BussidSuspensiEmpuk/DutroSengon.png"
+      },
+      {
+         "id":12,
+         "category":"SUSEMPUK",
+         "title":"Mustibisha Regoso 120PS",
+         "image":"file:///android_asset/Regoso120PSss.jpg",
+         "link_mods":"https://archive.org/download/BussidSuspensiEmpuk/Regoso120PS.bussidmod",
+         "link_livery":"https://archive.org/download/BussidSuspensiEmpuk/Regoso120PS.png"
+      },
+      {
+         "id":14,
+         "category":"SUSEMPUK",
+         "title":"Rimba Raya SRXhd",
+         "image":"file:///android_asset/BisRimbaRayass.jpg",
+         "link_mods":"https://archive.org/download/BussidSuspensiEmpuk/BisRimbaRaya.bussidmod",
+         "link_livery":"https://archive.org/download/BussidSuspensiEmpuk/BisRimbaRaya.png"
+      }
+   ]
+}
